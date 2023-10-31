@@ -1,4 +1,4 @@
-# PassCiphe React Password Generator
+# PassCipher React Password Generator
 
 A simple React application that generates random passwords based on user preferences.
 
