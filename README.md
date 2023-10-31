@@ -2,6 +2,16 @@
 
 A simple React application that generates random passwords based on user preferences.
 
+## TechStack
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="react native" style="margin: 0px;">
+  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" alt="JavaScript (JS)" style="margin: 10px;">
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
+</p>
+  
 ## Table of Contents
 
 - [Features](#features)
