@@ -46,7 +46,7 @@ function App() {
   return (
     <>
     <h1 className='text-white font-bold text-4xl mt-20 text-center'style={{color:'#C26291'}}>PassCipher</h1>
-    <div className='w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-2 my-8 mt-10 bg-gray-700' style={{backgroundColor:'rbga(74, 91, 106, 0.8)',color:'#728495'}}>
+    <div className='w-full max-w-md mx-auto shadow-md rounded-lg px-4 py-2 my-8 mt-10 bg-gray-700' style={{backgroundColor:'#4a5b6a',color:'#728495'}}>
     <h1 className='text-center text-white my-2'> Generator a random password</h1>        
     <div className='flex shadow rounded-lg overflow-hidden mb-4'>
       <input 
