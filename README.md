@@ -60,10 +60,10 @@ Before you begin, ensure you have met the following requirements:
 1. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-2. Open your web browser and go to `http://localhost:3000` to use the React Password Generator.
+2. Open your web browser and go to `http://localhost:5173/` to use the React Password Generator.
 
 3. Configure your password preferences:
    - Adjust the password length using the range slider.
